@@ -1,0 +1,52 @@
+{
+  "trip1": {
+    "tripName": "Florida",
+    "name": "Mark Bradley",
+    "contact": {
+      "email": "mbradle15@gmail.com",
+      "phone": "618-719-6430"
+    },
+    "location": "Florida",
+    "arrivalDate": "2025-10-03",
+    "departureDate": "2025-10-31",
+    "activities": [
+      {
+        "title": "golf",
+        "time": "8:00 AM"
+      },
+      {
+        "title": "swimming",
+        "time": "1:00 PM"
+      },
+      {
+        "title": "trick-or-treat",
+        "time": "6:00 PM"
+      }
+    ]
+  },
+  "trip2": {
+    "tripName": "Alaska",
+    "name": "Mark Bradley",
+    "contact": {
+      "email": "mbradle15@gmail.com",
+      "phone": "618-719-6430"
+    },
+    "location": "Alaska",
+    "arrivalDate": "2025-12-01",
+    "departureDate": "2026-01-01",
+    "activities": [
+      {
+        "title": "hunting",
+        "time": "4:00 AM"
+      },
+      {
+        "title": "northern-lights",
+        "time": "6:00 PM"
+      },
+      {
+        "title": "new-years-party",
+        "time": "11:00 PM"
+      }
+    ]
+  }
+}
