@@ -61,6 +61,22 @@
           "time": "8:00 PM"
         }
       ]
+    },
+    {
+      "location": "Newyork",
+      "arrivalDate": "2026-05-19",
+      "departureDate": "2026-05-23",
+      "transportation": "Flight",
+      "activities": [
+        {
+          "title": "visit TimeSquares",
+          "time": "6:00 PM"
+        },
+        {
+          "title": "Dinner",
+          "time": "8:00 PM"
+        }
+      ]
     }
   ]
 }
